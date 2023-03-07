@@ -15,3 +15,5 @@ How to Run the Program
 The script uses the WScript.Shell object to create an instance of the Windows Shell, which is used to read the product key from the Windows Registry. The extracted key is then passed to the ConvertToKey function, which converts the binary key data into the standard 25-character product key format. Finally, the product key is displayed in an input box using the InputBox function.
 
 **Note** that this program is intended for educational or informational purposes only and should not be used to violate any software license agreements.
+
+Reference: https://www.makeuseof.com/windows-11-transfer-license/
